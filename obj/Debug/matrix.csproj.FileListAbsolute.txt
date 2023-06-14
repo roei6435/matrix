@@ -1,0 +1,11 @@
+C:\Users\roei6\Desktop\matrix\matrix\bin\Debug\matrix.exe.config
+C:\Users\roei6\Desktop\matrix\matrix\bin\Debug\matrix.exe
+C:\Users\roei6\Desktop\matrix\matrix\bin\Debug\matrix.pdb
+C:\Users\roei6\Desktop\matrix\matrix\obj\Debug\matrix.csproj.AssemblyReference.cache
+C:\Users\roei6\Desktop\matrix\matrix\obj\Debug\matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\roei6\Desktop\matrix\matrix\obj\Debug\matrix.csproj.CoreCompileInputs.cache
+C:\Users\roei6\Desktop\matrix\matrix\obj\Debug\matrix.exe
+C:\Users\roei6\Desktop\matrix\matrix\obj\Debug\matrix.pdb
+C:\Users\roei6\Desktop\matrix\matrix\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roei6\Desktop\matrix\matrix\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roei6\Desktop\matrix\matrix\obj\Debug\matrix.csproj.CopyComplete
