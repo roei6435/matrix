@@ -12,6 +12,7 @@ namespace matrix
     {
         static async Task Main(string[] args)
         {
+            Console.WriteLine("aaaa");
             importData impda = new importData();
             Console.WriteLine("application:");
             Console.WriteLine("task board:");
